@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>enemyShip.png</file>
+        <file>enemyUFO.png</file>
+        <file>laserGreen.png</file>
+        <file>laserGreenShot.png</file>
+        <file>laserRed.png</file>
+        <file>laserRedShot.png</file>
+        <file>life.png</file>
+        <file>meteorBig.png</file>
+        <file>meteorSmall.png</file>
+        <file>player.png</file>
+        <file>playerDamaged.png</file>
+        <file>playerLeft.png</file>
+        <file>playerRight.png</file>
+        <file>shield.png</file>
+        <file>stars.gif</file>
+        <file>go.mp3</file>
+        <file>intro.mp3</file>
+        <file>lv.mp3</file>
+        <file>tiro.mp3</file>
+        <file>AF518.jpg</file>
+        <file>gameover.jpg</file>
+        <file>ganhou.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>sounds/go.mp3</file>
+        <file>sounds/intro.mp3</file>
+        <file>sounds/lv.mp3</file>
+        <file>sounds/tiro.mp3</file>
+        <file>images/AF518.jpg</file>
+        <file>images/enemyShip.png</file>
+        <file>images/enemyUFO.png</file>
+        <file>images/gameover.jpg</file>
+        <file>images/ganhou.jpg</file>
+        <file>images/laserGreen.png</file>
+        <file>images/laserGreenShot.png</file>
+        <file>images/laserRed.png</file>
+        <file>images/laserRedShot.png</file>
+        <file>images/life.png</file>
+        <file>images/meteorBig.png</file>
+        <file>images/meteorSmall.png</file>
+        <file>images/player.png</file>
+        <file>images/playerDamaged.png</file>
+        <file>images/playerLeft.png</file>
+        <file>images/playerRight.png</file>
+        <file>images/shield.png</file>
+        <file>images/stars.gif</file>
+    </qresource>
+</RCC>
